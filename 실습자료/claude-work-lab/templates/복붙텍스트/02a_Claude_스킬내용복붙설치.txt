@@ -1,5 +1,5 @@
-아래 내용을 .claude/skills/grill-me/SKILL.md에 그대로 저장해줘. 기존 파일이 다르면 덮어쓰기 전에 물어봐 줘.
-templates/skills/grill-me의 LICENSE와 SOURCE.md도 복사해줘. 아직 인터뷰하지 마.
+아래 내용을 프로젝트용 grill-me 스킬로 설치해줘. 기존 스킬이 다르면 먼저 물어봐 줘.
+제공 자료의 LICENSE와 SOURCE.md도 함께 복사해줘. 아직 인터뷰하지 마.
 
 SKILL.md 내용:
 ---

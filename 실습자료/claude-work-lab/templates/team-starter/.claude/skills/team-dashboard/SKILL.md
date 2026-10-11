@@ -8,7 +8,7 @@ disable-model-invocation: true
 
 입력은 output/local-final/{summary.json,verification.json,report.html,share.txt}. 새 출력은 output/team-dashboard.html, 기록은 notes/team-result.md. 메인은 제공 계정으로 로그인된 Claude Code이고 담당자는 model: inherit를 따른다. 원본·기존 결과물·계정 설정을 보존한다.
 
-1. 입력 4개가 있는지 확인한다. 새 HTML이나 기록 경로가 이미 있으면 덮어쓰지 말고 새 경로를 사용자와 확인한다. 기록에는 선택한 경로를 쓴다.
+1. 진행 중 비용을 먼저 보이는 후속 비교 요청이면 templates/수업_파일안내.md의 비용 팀 비교 결과 위치를 사용한다. 그 외에는 위 기본 결과 위치를 사용한다. 입력 4개가 있는지 확인한다. 새 HTML이나 기록 경로가 이미 있으면 덮어쓰지 말고 새 경로를 사용자와 확인한다. 기록에는 선택한 경로를 쓴다.
 2. **Agent 도구로 data-auditor를 실제 호출**한다. summary.json과 verification.json 경로를 넘긴다. FAIL이면 제작을 멈추고 실제 실패 내용을 기록한다.
 3. PASS 뒤 **Agent 도구로 dashboard-builder를 실제 호출**한다. 같은 summary.json, 데이터 확인 결과, 새 출력 경로를 전달한다.
 4. **Agent 도구로 qa-reviewer를 실제 호출**한다. 출력 경로와 `node integrations/team-install/verify-team.cjs` 검사 절차를 전달한다. 변경 경로는 마지막 인수로 전달한다.

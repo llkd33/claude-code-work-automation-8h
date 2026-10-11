@@ -1,4 +1,4 @@
 회의록 정리하는 방법을 meeting-minutes 스킬로 만들고 싶어.
-@input/hanbit-sales/README.md와 @templates/skills/meeting-minutes/스킬_빈칸양식.md를 참고해줘.
-내가 보고서에서 중요하게 보는 것을 하나씩, 3개까지 물어봐 줘.
-내가 확인하면 .claude/skills/meeting-minutes/SKILL.md에 만들고, 내 기준은 notes/회의록스킬_내기준.md에 남겨줘.
+제공된 한빛화학 자료와 회의록 스킬 양식을 참고해줘.
+내가 중요하게 보는 것을 하나씩, 3개까지 물어봐 줘.
+내가 확인하면 스킬을 만들고, 내 기준도 메모로 남겨줘.

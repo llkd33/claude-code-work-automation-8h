@@ -1,2 +1,2 @@
-/meeting-minutes input/hanbit-sales/meetings/03_내부주간영업회의.txt
-같은 기준으로 output/meeting-minutes/내부회의.md에 정리해줘.
+/meeting-minutes 내부 주간 영업회의도 같은 기준으로 정리해줘.
+만든 회의록을 알려줘.

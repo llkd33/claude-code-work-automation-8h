@@ -10,7 +10,7 @@ disable-model-invocation: true
 
 ## 입력부터 결과까지
 
-1. 입력 XLSX 경로, 출력 폴더, 기준 금액을 확인한다. 빠진 정보만 최대 두 질문으로 확인한다. 원본은 수정하지 않는다.
+1. 입력 이름을 확인한다. 입력 별칭이나 출력 위치가 생략되면 templates/수업_파일안내.md의 /weekly-report 항목에서 기본 위치를 찾는다. 기준 금액은 이 스킬에 적힌 값을 쓴다. 안내로 정할 수 없는 정보만 최대 두 질문으로 확인한다. 원본은 수정하지 않는다.
 2. integrations/local-report/README.md의 지원 열·수식·실행 방법을 읽는다. 처음에만 package 설치 상태를 확인하고, 준비되지 않았으면 사전 준비 안내로 돌린다. 설치 실패를 성공으로 표시하지 않는다.
 3. `node integrations/local-report/weekly-report.cjs "입력경로" "출력폴더" --threshold 기준금액`을 실제 실행한다. 경로와 옵션은 쉘에 안전하게 전달한다. 절차 설명만 하고 끝내지 않는다.
 4. 정상 종료 후 실제 summary.json·verification.json·share.txt를 읽고 report.html 존재를 확인한다. 총액=부서별 합, 건수=완료+진행, 원본 품질 검사 상태를 대조한다. 브라우저를 사용하지 못하면 화면은 미확인으로 남긴다.

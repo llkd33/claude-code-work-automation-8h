@@ -1,5 +1,4 @@
-제공된 integrations/auth-report/task-spec.md와 소스로 Excel 보고서 실행기를 준비해줘.
-- 이 PC에 로그인된 Claude Code를 써줘.
-- workbooks/주간비용_다음주.xlsx 사본을 inbox-auth/주간비용.xlsx에 준비해줘. 기존 입력은 남겨줘.
-- Windows는 ExcelReport.exe, macOS는 ExcelReport.command로 만들어줘.
+제공된 Excel 실행기 명세와 소스로 보고서 실행기를 만들어줘.
+이 PC에 로그인된 Claude Code와 다음 주 비용표 사본을 써줘.
+Windows는 ExcelReport.exe, macOS는 ExcelReport.command로 만들어줘.
 분석은 내가 실행기를 열어 할게. 지금은 실행하지 마.

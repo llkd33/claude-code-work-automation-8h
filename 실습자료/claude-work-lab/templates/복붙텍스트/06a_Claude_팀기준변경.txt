@@ -1,2 +1,2 @@
 /team-dashboard 진행 중 비용을 먼저 보여줘.
-숫자는 그대로 두고 output/team-followup.html과 notes/team-followup.md에 저장해줘. 세 담당자가 만들고 검수해줘.
+숫자는 그대로 두고 새 결과로 남겨줘. 세 담당자가 만들고 검수해줘.

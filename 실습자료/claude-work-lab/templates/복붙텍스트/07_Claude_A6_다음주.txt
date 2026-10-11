@@ -1,3 +1,2 @@
-/weekly-report workbooks/주간비용_다음주.xlsx → output/next-week
-지난번과 같은 방법으로 다음 주 보고서를 만들어줘.
+/weekly-report 다음 주 비용표도 지난번과 같은 방법으로 보고서를 만들어줘.
 지난 보고서와 달라진 부분만 짧게 알려줘.
