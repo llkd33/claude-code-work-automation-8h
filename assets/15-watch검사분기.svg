@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1190" viewBox="0 0 1440 1190" role="img" aria-labelledby="title desc">
+<title id="title">watch가 반복 확인하는 순서</title>
+<desc id="desc">첫 입력이거나 파일 바이트가 바뀌면 입력을 검사합니다. 마지막 성공 입력과 같으면 skipped로 건너뜁니다. 정상 입력은 보고서를 생성하고 성공 파일 지문을 저장합니다. 오류 입력은 정상 세 파일을 보존하고 성공 지문을 저장하지 않으며 다음 검사에서 재시도합니다. 5초 간격 최대 12회이며 계산 시간이 추가될 수 있습니다. 60초 이후 새 검사는 시작하지 않고 진행 중인 검사는 마칩니다. Ctrl+C로도 중단합니다. 노트북과 터미널이 켜져 있어야 합니다. 셀 값이 아닌 파일 바이트를 비교하므로 글꼴 변경도 파일 변경이면 감지합니다.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#f63c51" stroke-width="1.8"/></marker></defs>
+<rect x="64" y="180" width="520" height="160" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="856" y="180" width="520" height="160" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<path d="M 587 260 L 849 260" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 324 345 L 324 394" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="64" y="400" width="520" height="155" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<path d="M 588 478 L 720 478 L 720 603 L 856 603" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 324 560 L 324 598" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="64" y="605" width="520" height="220" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="856" y="560" width="520" height="266" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<path d="M 324 830 L 324 875 L 64 875 L 64 909" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 1116 831 L 1116 875 L 1376 875 L 1376 909" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="64" y="915" width="1312" height="213" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<text x="64" y="42" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#161616">D08  /  watch가 반복 확인하는 순서</text>
+<text x="64" y="103" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">Node가 이미 만든 보고서 도구를 반복 실행합니다. 성공한 파일의 지문을 기억합니다.</text>
+<text x="88" y="204" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">감시 입력 확인</text>
+<text x="88" y="257" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">첫 입력인가? 파일이 바뀌었나?</text>
+<text x="880" y="204" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">마지막 성공 입력과 같음</text>
+<text x="880" y="257" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">skipped · 결과 생성 건너뛰기</text>
+<text x="88" y="424" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">입력 검사</text>
+<text x="88" y="477" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">필수 열 · 중복 · 빈 값 · 금액</text>
+<text x="88" y="629" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">정상</text>
+<text x="88" y="682" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">generated · 보고서 생성</text>
+<text x="88" y="720" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">성공 파일 지문 저장</text>
+<text x="88" y="758" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">이번 verification: ok: true</text>
+<text x="880" y="584" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">오류</text>
+<text x="880" y="637" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">error · 정상 3파일 보존</text>
+<text x="880" y="675" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">이번 verification: ok: false</text>
+<text x="880" y="713" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">성공 지문 저장 안 함</text>
+<text x="880" y="751" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">다음 검사에서 재시도</text>
+<text x="88" y="939" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">다음 확인 또는 종료</text>
+<text x="88" y="992" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">5초 간격 · 최대 12회 · 계산 시간 추가 가능 · 60초 뒤 새 검사 시작 안 함</text>
+<text x="88" y="1030" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">Ctrl+C 또는 횟수 종료 · 노트북과 터미널이 켜져 있을 때 동작</text>
+<text x="88" y="1068" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">파일 바이트 비교: 글꼴만 바꿔도 파일이 달라지면 감지합니다.</text>
+</svg>

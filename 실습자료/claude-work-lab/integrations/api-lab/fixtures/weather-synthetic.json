@@ -1,0 +1,7 @@
+{
+  "_fixture": {"kind":"synthetic", "note":"교안용 합성 응답. 실제 날씨 조회나 캡처값이 아님."},
+  "timezone":"Asia/Seoul",
+  "utc_offset_seconds":32400,
+  "current_units":{"time":"iso8601","temperature_2m":"°C","relative_humidity_2m":"%","weather_code":"wmo code"},
+  "current":{"time":"2026-01-15T09:00","temperature_2m":12.5,"relative_humidity_2m":40,"weather_code":2}
+}

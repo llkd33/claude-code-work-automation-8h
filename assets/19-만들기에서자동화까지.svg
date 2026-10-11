@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">첫 제작에서 업무 자동화까지</title>
+<desc id="desc">바이브 코딩에서는 일상 언어로 작은 도구를 만들고 직접 눌러 다듬습니다. 에이전틱 코딩에서는 의도와 범위를 정해 AI에게 계획·도구 실행·검사를 맡깁니다. 업무 자동화에서는 검사한 도구에 새 입력을 넣어 다시 실행하고 파일 변경을 감지합니다. 매번 판단이 필요한 AI 작업과 정해진 프로그램의 반복 실행은 다릅니다. watch는 매번 Claude를 호출하지 않습니다.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#f63c51" stroke-width="1.8"/></marker></defs>
+<rect x="64" y="195" width="360" height="225" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="536" y="195" width="360" height="225" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="1008" y="195" width="368" height="225" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<path d="M 428 305 L 529 305" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 900 305 L 1001 305" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="64" y="495" width="632" height="215" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="744" y="495" width="632" height="215" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<text x="64" y="42" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#161616">D11  /  첫 제작에서 업무 자동화까지</text>
+<text x="64" y="103" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">내 의도를 정하고, AI에게 실행을 맡기고, 완성한 절차를 다시 씁니다.</text>
+<text x="88" y="219" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">1. 말로 첫 제작</text>
+<text x="88" y="272" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">체크리스트 → 내 기능</text>
+<text x="88" y="310" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">추가·완료·저장 확인</text>
+<text x="560" y="219" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">2. 에이전트 경험</text>
+<text x="560" y="272" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">계획 → 실행 → 검사</text>
+<text x="560" y="310" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">규칙·Skill·3명 팀</text>
+<text x="1032" y="219" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">3. 업무 자동화</text>
+<text x="1032" y="272" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">새 Excel → 새 보고서</text>
+<text x="1032" y="310" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">실행 버튼·파일 감시</text>
+<text x="88" y="519" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">AI가 일하는 단계</text>
+<text x="88" y="572" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">제작·기능 인터뷰·3명 위임·분석</text>
+<text x="88" y="610" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">실제 모델 호출과 사용량이 있습니다.</text>
+<text x="768" y="519" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">정해진 도구가 반복하는 단계</text>
+<text x="768" y="572" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">숫자 계산·입력 변경 감지·재실행</text>
+<text x="768" y="610" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">watch는 매번 Claude를 호출하지 않습니다.</text>
+<text x="64" y="770" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">완료 기준: 필요한 파일과 실제 숫자·동작을 확인하고, 같은 절차로 다시 실행하기.</text>
+</svg>

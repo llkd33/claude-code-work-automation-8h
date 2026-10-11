@@ -1,0 +1,7 @@
+- 엑셀을 넣고 실행하면 분석 보고서가 나오는 로컬 프로그램을 만들어줘.
+- API 키 없이 이 PC에 로그인된 Claude Code를 써줘.
+- integrations/auth-report/task-spec.md와 제공 소스로 준비해줘. 계산·분석 코드를 새로 쓰지 마.
+- inbox-auth 폴더를 만들고 workbooks/주간비용_다음주.xlsx를 주간비용.xlsx 이름으로 복사해줘. 기존 입력이 있으면 보존하고 나에게 확인해줘.
+- Windows: 제공 소스로 ExcelReport.exe를 만들어줘. macOS: ExcelReport.command를 만들어줘.
+- 실제 분석은 내가 실행기를 열어서 할게. 지금은 분석을 실행하지 마.
+- 생성된 실행 파일과 준비한 입력 경로를 짧게 알려줘.

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="820" viewBox="0 0 1440 820" role="img" aria-labelledby="title desc">
+<title id="title">MCP는 Gmail 초안 한 개로 경험하기</title>
+<desc id="desc">교육용 Gmail을 연결하고 같은 Claude 계정의 Terminal에서 /mcp로 실제 도구를 확인합니다. 보고서 share.txt와 교육용 수신자로 초안 한 개만 저장합니다. 메일함 전체 검색과 발송은 하지 않습니다. 실제 도구 응답의 초안 ID와 Gmail 임시보관함을 확인합니다. 저장 도구가 없으면 미완료로 끝냅니다.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#f63c51" stroke-width="1.8"/></marker></defs>
+<rect x="64" y="195" width="360" height="205" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="536" y="195" width="360" height="205" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="1008" y="195" width="368" height="205" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<path d="M 428 295 L 529 295" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 900 295 L 1001 295" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="64" y="470" width="632" height="195" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="744" y="470" width="632" height="195" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<text x="64" y="42" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#161616">D05  /  MCP는 Gmail 초안 한 개로 경험하기</text>
+<text x="64" y="103" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">이미 만든 공유 문안을 초안으로 저장하고 직접 확인합니다.</text>
+<text x="88" y="219" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">1. 연결과 도구</text>
+<text x="88" y="272" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">교육용 Gmail 인증</text>
+<text x="88" y="310" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">/mcp에서 도구 확인</text>
+<text x="560" y="219" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">2. 초안 한 개</text>
+<text x="560" y="272" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">share.txt + 내 수신자</text>
+<text x="560" y="310" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">실제 저장 도구 호출</text>
+<text x="1032" y="219" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">3. 내가 확인</text>
+<text x="1032" y="272" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">초안 ID · 임시보관함</text>
+<text x="1032" y="310" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">숫자 · 미발송 상태</text>
+<text x="88" y="494" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">저장 도구가 있으면</text>
+<text x="88" y="547" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">도구 응답과 임시보관함을 대조</text>
+<text x="88" y="585" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">다시 요청하기 전에 기존 초안 확인</text>
+<text x="768" y="494" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">저장 도구가 없으면</text>
+<text x="768" y="547" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">저장 미완료로 기록하고 종료</text>
+<text x="768" y="585" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">로컬 파일을 Gmail 성공으로 세지 않기</text>
+<text x="64" y="725" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">MCP는 Gmail만 연결합니다. 이번 수업에서는 다른 외부 도구를 추가하지 않습니다.</text>
+</svg>

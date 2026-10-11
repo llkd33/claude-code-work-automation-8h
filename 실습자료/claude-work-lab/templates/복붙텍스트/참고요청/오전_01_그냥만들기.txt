@@ -1,0 +1,2 @@
+- 클릭하면 숫자가 올라가는 아주 작은 웹페이지를 만들어줘.
+- HTML 한 파일로 output/demo/plain-counter.html에 저장해줘.

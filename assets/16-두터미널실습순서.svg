@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1270" viewBox="0 0 1440 1270" role="img" aria-labelledby="title desc">
+<title id="title">Claude가 켜고 파일만 바꿔 보기</title>
+<desc id="desc">Claude 안에 시작 요청을 붙입니다. 별도 실행 창에서 로그를 보고, 탐색기에서 입력 사본을 교체합니다. 기본 원본 40건에서 시작한 뒤 탐색기에서 다음 주 파일을 넣고 실행 창의 generated와 12건을 확인합니다. 브라우저를 수동 새로고침한 뒤 skipped를 봅니다. 오류 실습은 watch를 따로 재시작합니다. 오류 파일 사본을 넣고 error 로그를 기다린 뒤 다음 주 정상 파일로 바꿉니다. 복구 generated와 ok: true를 확인한 뒤 Ctrl+C 또는 횟수 종료로 마칩니다. 파일 교체 사이에 해당 로그를 기다립니다.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#f63c51" stroke-width="1.8"/></marker></defs>
+<rect x="64" y="175" width="632" height="138" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="744" y="175" width="632" height="138" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="64" y="355" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="355" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="64" y="460" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="460" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="64" y="565" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="565" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="64" y="735" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="735" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="64" y="840" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="840" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="64" y="945" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="945" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="64" y="1050" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="1050" width="632" height="76" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<path d="M 740 498 L 700 498" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 740 878 L 700 878" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 740 983 L 700 983" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="64" y="42" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#161616">D09  /  Claude가 켜고 파일만 바꿔 보기</text>
+<text x="64" y="103" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">Claude가 감시 창을 열면 파일 탐색기 또는 Finder에서 입력 사본을 바꿉니다.</text>
+<text x="88" y="199" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">실행 창 · 감시와 로그</text>
+<text x="88" y="252" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">watch 실행 · generated/skipped/error 확인</text>
+<text x="768" y="199" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">탐색기·Finder · 파일 교체</text>
+<text x="768" y="252" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">다음 주 / 오류 / 다음 주 사본</text>
+<text x="88" y="379" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">1. 첫 실행 · 기본 원본 40건</text>
+<text x="768" y="379" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">준비: original 사본에서 시작</text>
+<text x="88" y="484" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">2. generated · 12건 확인</text>
+<text x="768" y="484" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">다음 주 사본 교체 → generated 기다리기</text>
+<text x="88" y="589" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">3. 브라우저 새로고침 → skipped</text>
+<text x="768" y="589" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">첫 실행 끝낸 뒤 오류 실습 준비</text>
+<text x="88" y="759" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">4. 같은 시작 요청으로 감시 다시 켜기</text>
+<text x="768" y="759" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">기존 입력을 보존하고 다시 시작</text>
+<text x="88" y="864" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">5. error 로그 확인 · 정상 3파일 보존</text>
+<text x="768" y="864" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">오류 사본 교체 → error 기다리기</text>
+<text x="88" y="969" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">6. 복구 generated · ok: true 확인</text>
+<text x="768" y="969" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">정상 사본 교체 → generated 기다리기</text>
+<text x="88" y="1074" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">7. Ctrl+C 또는 횟수 종료</text>
+<text x="768" y="1074" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">종료 후 실행 기록 남기기</text>
+<text x="64" y="675" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#f63c51">오류 실습은 첫 실행 종료 후 따로 진행합니다.</text>
+<text x="64" y="1180" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">기다릴 것: next → generated / error → error 로그 / next 복구 → generated</text>
+</svg>

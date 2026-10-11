@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="860" viewBox="0 0 1440 860" role="img" aria-labelledby="title desc">
+<title id="title">하네스 · AI가 일할 환경을 갖추기</title>
+<desc id="desc">하네스는 새로운 프로그램 이름이 아니라 AI가 일할 환경을 갖추는 방법입니다. Excel과 계산 도구를 준비하고 CLAUDE.md에 공통 규칙을 적습니다. 보고서 스킬의 내 기준을 설정하고 제공 담당자 3명과 팀 스킬을 설치합니다. 메인 Claude가 데이터 확인, 화면 제작, 검수를 위임합니다. 결과 숫자와 화면은 직접 확인합니다.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#f63c51" stroke-width="1.8"/></marker></defs>
+<rect x="64" y="195" width="400" height="210" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="520" y="195" width="400" height="210" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="976" y="195" width="400" height="210" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<path d="M 470 300 L 512 300" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 926 300 L 968 300" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="64" y="490" width="632" height="185" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="490" width="632" height="185" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<text x="64" y="42" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#161616">D13  /  하네스 · AI가 일할 환경을 갖추기</text>
+<text x="64" y="103" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">자료·도구·규칙·절차·담당자·검사를 준비하고 같은 비용 업무에 사용합니다.</text>
+<text x="88" y="219" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">1. 자료·도구</text>
+<text x="88" y="272" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">이번 Excel 입력</text>
+<text x="88" y="310" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">제공 계산 도구</text>
+<text x="88" y="348" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">합계 검사 기준</text>
+<text x="544" y="219" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">2. 규칙·스킬</text>
+<text x="544" y="272" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">CLAUDE.md: 원본 보존</text>
+<text x="544" y="310" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">weekly-report: 내 기준</text>
+<text x="544" y="348" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">반복 절차를 저장</text>
+<text x="1000" y="219" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">3. 담당자 설정</text>
+<text x="1000" y="272" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">데이터 확인 담당</text>
+<text x="1000" y="310" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">화면 제작 담당</text>
+<text x="1000" y="348" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">검수 담당</text>
+<text x="88" y="514" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">내가 설정할 것</text>
+<text x="88" y="567" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">역할·공통 규칙 한 줄</text>
+<text x="88" y="605" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">스킬 기준 금액·팀 호출 규칙</text>
+<text x="768" y="514" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">직접 실행하고 확인</text>
+<text x="768" y="567" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">/team-dashboard로 세 담당자 호출</text>
+<text x="768" y="605" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">숫자 검사 → 보고서 화면 열기</text>
+<text x="64" y="745" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="26" font-weight="400" fill="#161616">같은 환경 + 다음 주 Excel → 같은 기준으로 새 보고서</text>
+</svg>

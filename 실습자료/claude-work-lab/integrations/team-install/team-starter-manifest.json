@@ -1,0 +1,32 @@
+[
+  {
+    "path": "templates/team-starter/.claude/agents/dashboard-builder.md",
+    "bytes": 1923,
+    "sha256": "2a23daf541d5d045989e653b0248be7734afb5cd23b76e1cdc866f567985fc59"
+  },
+  {
+    "path": "templates/team-starter/.claude/agents/data-auditor.md",
+    "bytes": 1365,
+    "sha256": "b64e67e66347d8b733217c8258a661f6fac75cee946e69033327ce51e6c2143f"
+  },
+  {
+    "path": "templates/team-starter/.claude/agents/qa-reviewer.md",
+    "bytes": 1486,
+    "sha256": "9cad10d375607d68c050578a5381e0a854fe4b11062a22f8f4834b4a4cbad198"
+  },
+  {
+    "path": "templates/team-starter/.claude/skills/team-dashboard/SKILL.md",
+    "bytes": 2404,
+    "sha256": "054c001917dc632724d9d9ff69ca503ce1442e0495745fabe1b52ee1161cd93a"
+  },
+  {
+    "path": "templates/team-starter/CLAUDE.pointer.md",
+    "bytes": 521,
+    "sha256": "a026d9871f8a233fe3129ccb677d5f9145f9dabf8f9fce44638f90bc3659e507"
+  },
+  {
+    "path": "templates/team-starter/README.md",
+    "bytes": 3410,
+    "sha256": "482fb895bddc94c8800c069b0c1c1936c6f7f95f6062cccce839eb1f5783c945"
+  }
+]

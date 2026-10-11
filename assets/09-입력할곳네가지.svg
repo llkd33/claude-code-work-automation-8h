@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="790" viewBox="0 0 1440 790" role="img" aria-labelledby="title desc">
+<title id="title">어디에 입력할지 먼저 구분하기</title>
+<desc id="desc">터미널에서 claude를 실행한 뒤 Claude Code의 입력란에 목표와 제작 요청을 입력합니다. A8은 앱이 내부에서 보냅니다. node 명령은 셸이 열린 실행 창에서 실행합니다. Claude Code가 실행 중인 입력란과 구분합니다. 편집기에서는 파일의 규칙과 계획을 수정합니다. 브라우저에서는 실제 결과의 숫자와 동작을 확인합니다.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#f63c51" stroke-width="1.8"/></marker></defs>
+<rect x="64" y="185" width="632" height="205" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="744" y="185" width="632" height="205" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="64" y="430" width="632" height="167" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="430" width="632" height="167" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="64" y="635" width="1312" height="121" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<text x="64" y="42" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#161616">D02  /  어디에 입력할지 먼저 구분하기</text>
+<text x="64" y="103" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">Windows는 PowerShell, macOS는 터미널에서 Claude Code를 켭니다.</text>
+<text x="88" y="209" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">1. 터미널의 Claude Code</text>
+<text x="88" y="262" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">claude 실행 후 목표 · 제작 요청</text>
+<text x="88" y="300" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">예: “체크리스트 도구를 만들어 줘.”</text>
+<text x="88" y="338" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">A1–A7 · A8은 실행 앱</text>
+<text x="768" y="209" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">2. 셸이 열린 실행 창</text>
+<text x="768" y="262" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">제공된 node 명령을 실행하는 곳</text>
+<text x="768" y="300" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">예: node --version</text>
+<text x="768" y="338" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">한 명령씩 입력 → 실행 결과 확인</text>
+<text x="88" y="454" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">3. 편집기</text>
+<text x="88" y="507" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">계획 · 규칙 · 파일 내용을 수정</text>
+<text x="88" y="545" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">예: CLAUDE.md, SKILL.md</text>
+<text x="768" y="454" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">4. 브라우저</text>
+<text x="768" y="507" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">완성된 HTML 결과를 직접 확인</text>
+<text x="768" y="545" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">숫자 확인 · 버튼 누르기 · 새로고침</text>
+<text x="88" y="659" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">터미널에서 무엇이 실행 중인지 확인하세요</text>
+<text x="88" y="712" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">Claude Code 실행 중 → 요청문 / 셸 입력 상태 → node 명령</text>
+</svg>

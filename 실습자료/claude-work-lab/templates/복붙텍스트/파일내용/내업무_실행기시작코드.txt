@@ -1,0 +1,11 @@
+const path = require('node:path');
+const root = path.resolve(__dirname, '..');
+const { runReport } = require(path.join(root, 'integrations/local-report/weekly-report.cjs'));
+
+const input = 'workbooks/내업무비용.xlsx';
+const output = 'output/my-work';
+const threshold = 100000;
+
+runReport(path.join(root, input), path.join(root, output), { threshold })
+  .then(result => console.log(`완료: ${result.inputRows}건 / ${result.totalAmount}원 / ${output}/report.html`))
+  .catch(error => { console.error(error.message); process.exitCode = 1; });

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="850" viewBox="0 0 1440 850" role="img" aria-labelledby="title desc">
+<title id="title">한 건 수정하고 한 건 추가하기</title>
+<desc id="desc">원본은 40건, 2,333,300원입니다. E003의 단가를 10,000원에서 15,000원으로 바꾸고 진행을 완료로 바꾸면 40건, 2,338,300원입니다. 총액이 5,000원 늘어납니다. E041을 수량 1, 단가 25,000원으로 추가하면 41건, 2,363,300원입니다. 총액이 다시 25,000원 늘어납니다. 다음주 파일 12건, 1,130,900원은 별도의 새 입력입니다.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#f63c51" stroke-width="1.8"/></marker></defs>
+<rect x="64" y="200" width="376" height="250" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="532" y="200" width="376" height="250" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="1000" y="200" width="376" height="250" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<path d="M 444 325 L 524 325" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 912 325 L 992 325" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="64" y="505" width="632" height="180" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="505" width="632" height="180" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<text x="64" y="42" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#161616">D04  /  한 건 수정하고 한 건 추가하기</text>
+<text x="64" y="103" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">아래 숫자는 같은 사본에서 순서대로 바꾼 결과입니다. 제공 원본은 그대로 둡니다.</text>
+<text x="88" y="224" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">1. 원본 값</text>
+<text x="88" y="277" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">40건</text>
+<text x="88" y="315" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">2,333,300원</text>
+<text x="88" y="353" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">완료 29 · 진행 11</text>
+<text x="556" y="224" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">2. E003 수정</text>
+<text x="556" y="277" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">40건</text>
+<text x="556" y="315" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">2,338,300원</text>
+<text x="556" y="353" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">완료 30 · 진행 10</text>
+<text x="1024" y="224" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">3. E041 추가</text>
+<text x="1024" y="277" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">41건</text>
+<text x="1024" y="315" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">2,363,300원</text>
+<text x="1024" y="353" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">완료 31 · 진행 10</text>
+<text x="88" y="529" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">E003 · +5,000원</text>
+<text x="88" y="582" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">수량 1 · 단가 10,000 → 15,000원</text>
+<text x="88" y="620" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">처리상태 진행 → 완료</text>
+<text x="768" y="529" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">E041 · +25,000원</text>
+<text x="768" y="582" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">새 비용 1건 · 수량 1 × 단가 25,000원</text>
+<text x="768" y="620" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">처리상태 완료</text>
+<text x="64" y="735" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">다음주 파일은 별도 입력: 12건 · 1,130,900원 / 원본을 수정하지 않습니다.</text>
+</svg>

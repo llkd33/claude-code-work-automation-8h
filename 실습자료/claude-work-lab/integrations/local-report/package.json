@@ -1,0 +1,16 @@
+{
+  "name": "weekly-cost-local-report",
+  "version": "1.0.0",
+  "private": true,
+  "description": "주간 비용 Excel 원본 검사와 로컬 보고서",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test weekly-report.test.cjs"
+  },
+  "dependencies": {
+    "exceljs": "4.4.0",
+    "jszip": "3.10.1"
+  }
+}

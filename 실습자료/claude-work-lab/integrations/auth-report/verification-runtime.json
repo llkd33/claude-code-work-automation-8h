@@ -1,0 +1,90 @@
+{
+  "verifiedAt": "2026-10-09T23:56:09.114Z",
+  "status": "passed",
+  "node": "v26.7.0",
+  "platform": "darwin",
+  "automaticTests": {
+    "command": "node --test integrations/auth-report/launch.test.cjs",
+    "exitCode": 0,
+    "tests": 25,
+    "pass": 25,
+    "scope": "Real Excel parser + mock Claude child process. No live login or model requests."
+  },
+  "localCliHelp": {
+    "authStatusJsonFlag": true,
+    "printMode": true,
+    "readTool": true,
+    "safeMode": true,
+    "restrictedMode": true,
+    "settingSources": true,
+    "mcpRestriction": true,
+    "maxTurnsSource": "https://code.claude.com/docs/en/cli-reference"
+  },
+  "verifiedClaims": [
+    "40 sample rows / 2333300 KRW calculated by existing local-report tool",
+    "One model-call attempt per successful fixture run",
+    "Auth-method validation and rejection of API/cloud environment overrides",
+    "No raw credential file access; account metadata is not saved",
+    "Only aggregates appear in model stdin and restricted Claude working directory",
+    "Original input unchanged on normal success and failures",
+    "Prior successful report preserved after next-run failure",
+    "Independent unique output folders for concurrent runs",
+    "120-second production timeout; shorter fixture timeout exercised",
+    "Claude-provided HTML escaped in report",
+    "shell:false prevents shell interpolation",
+    "Sample preparation preserves existing Excel files",
+    "Explicit model and medium effort passed to -p",
+    "Existing macOS .command bytes and permissions preserved on attempted rebuild"
+  ],
+  "notVerified": [
+    "Windows PowerShell compile and actual .exe execution: no Windows/compiler available",
+    "Real claude.ai authentication and real model completion: not invoked",
+    "Managed institution policies may apply despite safe mode",
+    "Finder .command double-click path and Gatekeeper behavior"
+  ],
+  "sources": [
+    "https://code.claude.com/docs/en/cli-reference",
+    "https://code.claude.com/docs/en/authentication"
+  ],
+  "files": {
+    "launch.cjs": "365518f3a798e5ef79693719277242063ba690f61d8665cff403ff8d671447e7",
+    "launch.test.cjs": "9c606ea14fa55119315bacc099788b0c43f75b992ad6b500aacf1092699c473a",
+    "prepare.cjs": "84372c73890ff2b99bbcea06ffa0bcaea250051641d550422fb13db59de4a48f",
+    "ExcelReport.cs": "0edae66aa81df1ddfa3d2eec74dfa370996767fae63a34d00f6b30d822b32d0e",
+    "build-exe.ps1": "cec8a02a78de18572ccc70e497fd8e61e25abe550da695d2028d0ddff072b5c5",
+    "task-spec.md": "30049f095d7e805e214fcea4c88f976cc38113a61fab918de2c5a6a0a86664db",
+    "README.md": "dc198a8b5be94ccdbd6cea14406c4ebb69c760c936bf9a10b315e004f28537b9"
+  },
+  "courseModel": {
+    "id": "claude-sonnet-5-5",
+    "effort": "medium",
+    "liveAccessVerified": false
+  },
+  "history": [
+    {
+      "verifiedAt": "2026-10-09T23:53:48.216Z",
+      "tests": 24,
+      "exitCode": 0,
+      "files": {
+        "launch.cjs": "a21a268c8c2b0cec1f5b4a11d7abfa0770a441fdd429c48069671b43238e7f28",
+        "launch.test.cjs": "89e7c6880ebcc3368139c973acc978fb8788d86b4b9aa1303d5fb40aa370d75b",
+        "prepare.cjs": "84372c73890ff2b99bbcea06ffa0bcaea250051641d550422fb13db59de4a48f",
+        "ExcelReport.cs": "0edae66aa81df1ddfa3d2eec74dfa370996767fae63a34d00f6b30d822b32d0e",
+        "build-exe.ps1": "cec8a02a78de18572ccc70e497fd8e61e25abe550da695d2028d0ddff072b5c5",
+        "task-spec.md": "becf286e54e35b8aa27697894eaa435988c63a771821557e3b5fe368e29b55f6",
+        "README.md": "79c8c7a6f0a6dba50d25c6e167a9a2cf1ccd0483b71df1ded0f21fb2a3f83a81"
+      },
+      "changeAfterRun": "Added explicit course model/effort, A7/A8 boundary and preservation of existing macOS launcher."
+    }
+  ],
+  "documentationUpdates": [
+    {
+      "updatedAt": "2026-10-10T00:01:04.047Z",
+      "file": "README.md",
+      "previousSha256": "431b75f6e184febebd21d20a0cd1caa9eca4acb52838b65344b5e774bb600d67",
+      "change": "Skip Windows and macOS launcher builds when A7 already created them; document threshold aggregate transmission.",
+      "runtimeChanged": false,
+      "testsRerun": false
+    }
+  ]
+}

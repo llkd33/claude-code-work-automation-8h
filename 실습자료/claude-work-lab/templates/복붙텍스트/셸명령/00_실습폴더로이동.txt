@@ -1,0 +1,1 @@
+cd "[claude-work-lab 폴더의 전체 경로]"

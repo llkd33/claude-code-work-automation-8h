@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1010" viewBox="0 0 1440 1010" role="img" aria-labelledby="title desc">
+<title id="title">규칙·절차·계산·데이터의 역할</title>
+<desc id="desc">CLAUDE.md는 공통 규칙이고 SKILL.md는 한 업무의 실행과 검사 절차입니다. weekly-report.cjs가 실제 계산을 수행하고 .xlsx는 이번 입력 데이터입니다. Claude Code가 규칙과 Skill을 참고해 도구를 실행하더라도 Skill 파일이 있는 것만으로 실제 Skill 호출을 증명하지는 않습니다. CLAUDE.md를 작성하는 것은 runtime 상담봇 모델을 훈련시키는 일이 아닙니다.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#f63c51" stroke-width="1.8"/></marker></defs>
+<rect x="64" y="185" width="632" height="185" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<rect x="744" y="185" width="632" height="185" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<path d="M 380 375 L 380 410 L 720 410 L 720 446" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M 1060 375 L 1060 410 L 720 410" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round"/>
+<rect x="380" y="452" width="680" height="153" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<path d="M 720 610 L 720 640 L 380 640 L 380 675" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="64" y="680" width="632" height="153" rx="18" fill="#fcecef" stroke="#f63c51" stroke-width="2"/>
+<rect x="744" y="680" width="632" height="153" rx="18" fill="#f7f7f9" stroke="#d9dce3" stroke-width="2"/>
+<path d="M 740 755 L 700 755" fill="none" stroke="#f63c51" stroke-width="3" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="64" y="42" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#161616">D07  /  규칙·절차·계산·데이터의 역할</text>
+<text x="64" y="103" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">Claude Code는 규칙과 업무 절차를 참고하고 실제 도구를 실행합니다.</text>
+<text x="88" y="209" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">CLAUDE.md · 공통 규칙</text>
+<text x="88" y="262" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">원본 보존 · 공유 전 확인</text>
+<text x="88" y="300" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">모든 업무에 적용할 짧은 기준</text>
+<text x="768" y="209" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">SKILL.md · 한 업무의 절차</text>
+<text x="768" y="262" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">무엇을 실행하고 어떻게 검사할지</text>
+<text x="768" y="300" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">주간 보고 업무의 순서</text>
+<text x="404" y="476" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">Claude Code</text>
+<text x="404" y="529" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">규칙과 절차 참고 → 도구 실행·검사</text>
+<text x="88" y="704" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">weekly-report.cjs · 실제 계산</text>
+<text x="88" y="757" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">.xlsx 검사 · 숫자 계산 · 결과 저장</text>
+<text x="768" y="704" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="700" fill="#161616">.xlsx · 이번 데이터</text>
+<text x="768" y="757" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="400" fill="#606877">이번 주 비용 행 · 수정한 사본</text>
+<text x="64" y="881" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#161616">Skill 파일 존재만으로 실제 호출을 증명하지 않습니다. 실행 기록을 확인합니다.</text>
+<text x="64" y="927" dominant-baseline="text-before-edge" font-family="Apple SD Gothic Neo, Noto Sans KR, Malgun Gothic, sans-serif" font-size="25" font-weight="400" fill="#606877">CLAUDE.md 작성은 runtime 상담봇 모델을 훈련시키는 일이 아닙니다.</text>
+</svg>
