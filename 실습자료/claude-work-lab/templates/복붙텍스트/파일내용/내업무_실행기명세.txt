@@ -7,7 +7,7 @@
 수량은 양의 정수, 단가·금액은 0 이상의 정수, 금액은 수량×단가, 처리상태는 완료/진행입니다.
 입력의 다른 탭·열 이름·CSV는 지원하지 않습니다. 맞지 않는 입력을 추측해 변환하지 않습니다.
 출력: output/my-work. report.html, summary.json, share.txt, verification.json.
-기준 금액: 학습자가 요청한 정수. 요청에 빈칸이 남으면 먼저 확인합니다.
+기준 금액: 학습자가 정한 정수. 프롬프트에 빈칸이 남으면 먼저 확인합니다.
 실행: node scripts/my-workflow.cjs. 스크립트 위치를 기준으로 실습 루트를 찾아 실행합니다.
 원본은 수정하지 않습니다. 실패는 종료 코드 1과 verification.json에 남깁니다.
 실패 시 이전 정상 report.html/summary.json/share.txt는 기존 도구가 보존합니다.

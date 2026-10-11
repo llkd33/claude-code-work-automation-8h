@@ -2,7 +2,7 @@
 
 이 카드는 **Bun과 이미 만든 xlreport 프로젝트가 있는 macOS 환경**용입니다. xlreport 소스는 이번 실습 ZIP에 포함하지 않습니다. 정규 수업에서는 integrations/auth-report의 Node 실행기를 사용합니다.
 
-## 이렇게 요청하기
+## 이렇게 프롬프트를 작성해 보세요
 
 ```text
 폴더를 고르고 “보고서 만들기”를 누르면 Excel을 분석하는 로컬 앱을 만들고 싶어.

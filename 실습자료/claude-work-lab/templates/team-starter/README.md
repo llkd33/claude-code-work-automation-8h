@@ -8,7 +8,7 @@
 | dashboard-builder | 확인을 통과한 집계로 HTML 한 개 제작 | Read, Grep, Glob, Write, Edit |
 | qa-reviewer | 원본 재계산과 HTML 숫자를 실제로 대조 | Read, Grep, Glob, Bash |
 
-`name`은 부를 이름, `description`은 언제 어떤 일을 맡길지 정하는 설명입니다. 세 담당자는 `model: inherit`로 메인 Claude의 모델을 따릅니다. 담당자의 요청도 제공 계정의 사용량에 포함됩니다.
+`name`은 부를 이름, `description`은 언제 어떤 일을 맡길지 정하는 설명입니다. 세 담당자는 `model: inherit`로 메인 Claude의 모델을 따릅니다. 담당자의 프롬프트도 제공 계정의 사용량에 포함됩니다.
 
 ## 1. 역할 확인과 설치 
 
