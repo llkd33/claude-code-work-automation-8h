@@ -1,0 +1,23 @@
+{
+  "url": "https://llkd33.github.io/claude-code-work-automation-8h/",
+  "checks": [
+    "Live HTTP200, 29 sections, 57 requests and all image files loaded",
+    "Actual browser localStorage survives reload and native all-notes clipboard copy works",
+    "Terminal mock changes input state and explains /model",
+    "Customer team selection changes 3 roles, visible route and actual copied slash request",
+    "Live download ZIPs and image-source page return HTTP200",
+    "No browser script exceptions",
+    "375px actual browser: no horizontal page overflow; screenshots saved",
+    "768px actual browser: no horizontal page overflow; screenshots saved"
+  ],
+  "limits": [
+    "Claude/Gmail/Windows execution and classroom completion not run"
+  ],
+  "canonicalUrl": "https://llkd33.github.io/claude-code-work-automation-8h/%EC%8B%A4%EC%8A%B5%ED%95%B8%EB%93%9C%EB%B6%81.html",
+  "status": "passed",
+  "verifiedAt": "2026-10-11T09:03:52.649819+00:00",
+  "testedContentCommit": "4ba659925678ce76e9cc2881bb78556bce87423f",
+  "testedHtmlSHA256": "39f5f7f6af17f82ea379358bb13ae07588d3081b8fe45c4e746ae09b136d5320",
+  "deploymentRun": "https://github.com/llkd33/claude-code-work-automation-8h/actions/runs/38126879874",
+  "deploymentConclusion": "success"
+}
