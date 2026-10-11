@@ -1,4 +1,4 @@
-@input/weekly-report/README.md의 자료 4개로 보고서를 만들어줘.
-- output/audience-report에 weekly-report.md, weekly-report.html, team-summary.md, email-draft.md, chart-data.csv를 저장해줘.
-- 숫자는 output/local-final의 집계와 대조해줘. 다르면 멈추고 알려줘. 원인은 추측이라고 표시해줘.
-- 메일은 보내지 마.
+@input/weekly-report/README.md의 자료로 보고서를 만들고 싶어.
+팀장용 보고서와 대시보드, 팀 요약, 메일 초안, 차트 데이터를 만들어줘.
+안내에 적힌 5개 파일명으로 output/audience-report에 저장해줘.
+숫자는 output/local-final과 비교하고, 다르면 알려줘. 원인 추정은 따로 표시하고 메일은 보내지 마.

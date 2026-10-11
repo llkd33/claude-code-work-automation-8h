@@ -1,2 +1,3 @@
-@integrations/local-report/실행안내.md의 도구로 workbooks/주간비용_수정후.xlsx 보고서를 만들어줘.
-output/local-final에 저장하고 건수·총액과 열 파일을 알려줘. 제공 계산 코드는 그대로 써줘.
+workbooks/주간비용_수정후.xlsx로 비용 보고서를 만들어줘.
+제공 도구로 계산해서 output/local-final에 저장해줘.
+총액·건수·부서별 금액과 열 파일을 알려줘.

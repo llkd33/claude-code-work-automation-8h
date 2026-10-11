@@ -1,0 +1,21 @@
+{
+  "url": "http://127.0.0.1:8766/실습핸드북.html",
+  "checks": [
+    "Live HTTP200, 29 sections, 57 requests and all image files loaded",
+    "Advanced sections start closed, core progress excludes optional checks, short checklist request copies correctly",
+    "Shared folder-first setup and interview-style meeting skill copy correctly",
+    "Actual browser localStorage survives reload and native all-notes clipboard copy works",
+    "Removed contextless cards and terminal simulation; counter demo continues previous example; mode screenshot loads; command field has padding",
+    "Customer team selection changes 3 roles, visible route and actual copied slash request",
+    "Live download ZIPs and image-source page return HTTP200",
+    "No browser script exceptions",
+    "375px actual browser: no horizontal page overflow; screenshots saved",
+    "768px actual browser: no horizontal page overflow; screenshots saved",
+    "Before/after comparison HTTP200"
+  ],
+  "limits": [
+    "Claude/Gmail/Windows execution and classroom completion not run"
+  ],
+  "canonicalUrl": "http://127.0.0.1:8766/%EC%8B%A4%EC%8A%B5%ED%95%B8%EB%93%9C%EB%B6%81.html",
+  "status": "passed"
+}

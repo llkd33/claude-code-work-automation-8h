@@ -1,2 +1,4 @@
-.claude/skills/weekly-report/SKILL.md의 description을 한빛화학 영업부서의 주간 비용 보고용으로 다듬어줘.
-없는 숫자를 추측하지 않는 규칙도 넣어줘. name과 계산·경로·검사 명령은 그대로 둬.
+주간 비용 보고서를 정리하는 스킬을 내 기준에 맞추고 싶어.
+.claude/skills/weekly-report/SKILL.md를 보고, 내가 중요하게 보는 기준을 물어봐 줘.
+내가 확인하면 description과 보고서 정리 기준만 다듬어줘. 없는 숫자는 추측하지 마.
+name과 계산·경로·검사 명령은 그대로 둬.

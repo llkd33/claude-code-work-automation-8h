@@ -1,4 +1,4 @@
-작은 고객관리 웹앱을 만들어줘.
-- @templates/customer-app/01_고객관리_스펙.md와 @input/customer-app/가상고객_5명.csv를 써줘.
-- 고객 추가, 회사명 검색, 상담 상태 변경이 필요해. 닫았다 열어도 같은 브라우저에 남게 해줘.
-- output/customer-app/index.html에 저장하고, 제공 도구로 로컬에서 열어줘.
+고객을 관리하는 간단한 도구를 만들고 싶어.
+@templates/customer-app/01_고객관리_스펙.md와 @input/customer-app/가상고객_5명.csv를 참고해줘.
+필요한 기능을 하나씩, 3개까지 물어보고 내가 고른 기능만 넣어줘. 닫았다 열어도 고객 정보가 남게 해줘.
+내가 확인하면 output/customer-app/index.html에 만들고 로컬에서 열어줘.
