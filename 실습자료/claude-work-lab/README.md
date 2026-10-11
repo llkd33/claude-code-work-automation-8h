@@ -14,15 +14,16 @@
 | 체크리스트 | templates/checklist-spec.md |
 | 회의록 스킬 | input/hanbit-sales/README.md, templates/skills/meeting-minutes/스킬_빈칸양식.md |
 | 비용 계산 | integrations/local-report/실행안내.md |
-| 보고서·메일 초안 | input/weekly-report/README.md |
+| 비용 보고서·메일 초안 | templates/수업_파일안내.md의 현재 비용 보고서 결과 위치; 검사한 같은 숫자를 사용 |
+| 수신자별 결과 5종 | input/weekly-report/README.md |
 | Excel 웹 도구 | templates/excel-web-app/01_웹보고서_스펙.md |
 | 고객관리 | templates/customer-app/01_고객관리_스펙.md |
 
 ## 실습 순서
 1. 체크리스트를 만듭니다.
 2. 회의록 스킬을 만들고 두 메모에 적용합니다.
-3. 비용표 사본으로 보고서를 만들고 오류·복구를 확인합니다.
-4. weekly-report 스킬과 CLAUDE.md로 같은 일을 다시 씁니다.
+3. 비용표 사본으로 보고서와 메일 초안을 만듭니다.
+4. 같은 방식으로 다음 주 보고서를 만든 뒤, CLAUDE.md와 weekly-report 스킬로 절차를 남깁니다.
 5. 서브에이전트 팀 하나를 골라 세 역할을 맡기고 결과를 확인합니다.
 6. Excel 웹 도구를 만들고 보고서·발표 슬라이드를 엽니다.
 7. 입력 파일을 교체해 보고서를 자동 갱신합니다.
