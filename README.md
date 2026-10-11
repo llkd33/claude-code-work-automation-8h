@@ -4,7 +4,7 @@
 
 ## 바로 보기
 
-- 웹 교안: 배포가 완료되면 저장소의 GitHub Pages 주소에서 엽니다.
+- [웹 교안 열기](https://llkd33.github.io/claude-code-work-automation-8h/)
 - [교안 HTML](실습핸드북.html) · [읽기용 교안](교안.md)
 - [수강생 전체 자료](배포본/ClaudeCode_8H_수강생.zip) · [강사용 전체 자료](배포본/ClaudeCode_8H_강사용.zip)
 - [실습 폴더 ZIP](실습자료.zip) · [복붙 텍스트 ZIP](복붙템플릿.zip)
@@ -18,9 +18,9 @@
 - 자료를 수정했으면 관련 내려받기 ZIP도 새로 묶습니다.
 - 페이지의 입력은 같은 기기·브라우저의 로컬 저장소에 보관되며 다른 기기와 동기화되지 않습니다.
 
-## 처음 배포하기
+## 자동 배포
 
-저장소 Settings → Pages에서 **Deploy from a branch**, **main**, **/(root)**를 선택해 저장합니다. 이후 main에 반영된 정적 파일은 GitHub Pages에 자동 배포됩니다. `.nojekyll`을 포함하므로 별도 빌드가 필요 없습니다.
+GitHub Pages는 **main · /(root)**로 연결되어 있습니다. main에 수정 사항을 반영하면 웹에 자동 배포됩니다. `.nojekyll`을 포함하므로 별도 빌드가 필요 없습니다. 배포 상태는 저장소 Actions의 pages build and deployment에서 확인합니다.
 
 [GitHub Pages 공식 설정 안내](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
