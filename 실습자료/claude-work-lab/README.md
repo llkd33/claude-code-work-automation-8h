@@ -15,6 +15,7 @@
 | 회의록 스킬 | input/hanbit-sales/README.md, templates/skills/meeting-minutes/스킬_빈칸양식.md |
 | 비용 계산 | integrations/local-report/실행안내.md |
 | 보고서·메일 초안 | input/weekly-report/README.md |
+| Excel 웹 도구 | templates/excel-web-app/01_웹보고서_스펙.md |
 | 고객관리 | templates/customer-app/01_고객관리_스펙.md |
 
 ## 실습 순서
@@ -23,7 +24,7 @@
 3. 비용표 사본으로 보고서를 만들고 오류·복구를 확인합니다.
 4. weekly-report 스킬과 CLAUDE.md로 같은 일을 다시 씁니다.
 5. 서브에이전트 팀 하나를 골라 세 역할을 맡기고 결과를 확인합니다.
-6. Excel 실행기를 만들고 보고서를 엽니다.
+6. Excel 웹 도구를 만들고 보고서·발표 슬라이드를 엽니다.
 7. 입력 파일을 교체해 보고서를 자동 갱신합니다.
 8. 공유 문안을 Gmail 초안으로 저장합니다.
 

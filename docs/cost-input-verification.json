@@ -1,0 +1,19 @@
+{
+  "source": "workbooks/주간비용_실습.xlsx",
+  "sheet": "비용내역",
+  "shownRows": "2:7",
+  "shownColumns": [
+    "A",
+    "C",
+    "E",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "count": 40,
+  "total": 2333300,
+  "quantityTimesPrice": "40 rows checked against cached amount",
+  "xlsxChanged": false,
+  "scope": "Static course editing and provided-example browser checks; not a newly generated student app run"
+}

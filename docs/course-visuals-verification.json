@@ -1,0 +1,18 @@
+{
+  "url": "http://127.0.0.1:8766/실습핸드북.html",
+  "checks": [
+    "3 example buttons switch exactly one image/definition; all 3 MD example downloads HTTP200",
+    "Input spreadsheet explanation and actual provided report screenshot load in section 10",
+    "P67 copies an @-selected input file; output path remains implicit",
+    "Natural customer creation and interview-based feature update copy without fixed output paths or prescribed memo feature",
+    "Verified Karpathy case, business analogy and source links precede CLAUDE.md interview",
+    "Section 20 copies natural Excel web-tool interview; provided 3-slide example advances by button/keyboard and prints all 3 slides",
+    "375px: all 3 panels switch, no horizontal page overflow",
+    "768px: all 3 panels switch, no horizontal page overflow"
+  ],
+  "limits": [
+    "Actual model interview, new app execution and autoresearch training were not run"
+  ],
+  "status": "passed",
+  "scope": "Static course editing and provided-example browser checks; not a newly generated student app run"
+}
