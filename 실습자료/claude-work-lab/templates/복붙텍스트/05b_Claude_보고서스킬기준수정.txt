@@ -1,4 +1,2 @@
-- .claude/skills/weekly-report/SKILL.md를 읽고 name과 계산·경로·검사 명령은 유지해줘.
-- description에 한빛화학 영업부서의 주간 비용 보고용이라는 상황을 반영하고, 원본에 없는 숫자나 결제 완료를 추정하지 않는 기준을 한 줄 보강해줘.
-- 다른 내용이 충돌하면 수정하지 말고 알려줘.
-- 바뀐 두 부분만 보여줘.
+.claude/skills/weekly-report/SKILL.md의 description을 한빛화학 영업부서의 주간 비용 보고용으로 다듬어줘.
+없는 숫자를 추측하지 않는 규칙도 넣어줘. name과 계산·경로·검사 명령은 그대로 둬.

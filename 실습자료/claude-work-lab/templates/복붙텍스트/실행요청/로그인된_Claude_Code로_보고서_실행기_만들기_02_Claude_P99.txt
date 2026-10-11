@@ -1,3 +1,2 @@
-- 이 xlreport 프로젝트의 제공 의존성을 설치해줘.
-- package.json과 sample/sales_fake.xlsx가 있는지 먼저 확인해줘.
-- 다른 프로젝트 파일은 바꾸지 마. 준비 결과만 알려줘.
+이 xlreport 프로젝트의 제공 의존성을 설치해줘.
+package.json과 sample/sales_fake.xlsx가 있는지 먼저 확인해줘.

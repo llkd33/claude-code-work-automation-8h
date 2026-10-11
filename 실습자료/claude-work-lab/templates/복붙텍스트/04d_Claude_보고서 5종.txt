@@ -1,6 +1,4 @@
-- @input/weekly-report/README.md의 자료 4개로 수신자별 결과물 5개를 만들어줘.
-- 결과: output/audience-report/weekly-report.md · weekly-report.html · team-summary.md · email-draft.md · chart-data.csv.
-- 이번 주 CSV는 output/local-final의 검증된 집계와 대조해줘. 같지 않으면 중단해줘.
-- 보고 기준·지난주 수치·이번 주 메모를 반영하고, 숫자 계산은 제공 도구로 확인해줘.
-- 원인은 확정하지 말고 근거와 가설을 구분해줘. 기존 결과는 보존하고 메일은 발송하지 마.
-- 파일 5개 경로·건수·총액·전주 차이·미확인만 짧게 알려줘.
+@input/weekly-report/README.md의 자료 4개로 보고서를 만들어줘.
+- output/audience-report에 weekly-report.md, weekly-report.html, team-summary.md, email-draft.md, chart-data.csv를 저장해줘.
+- 숫자는 output/local-final의 집계와 대조해줘. 다르면 멈추고 알려줘. 원인은 추측이라고 표시해줘.
+- 메일은 보내지 마.

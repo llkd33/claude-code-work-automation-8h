@@ -1,10 +1,5 @@
-- 아래 SKILL.md 내용을 그대로 이 프로젝트의 .claude/skills/grill-me/SKILL.md에 저장해줘.
-- 폴더가 없으면 만들어줘.
-- 같은 내용의 파일이 있으면 그대로 두고, 다른 내용이면 덮어쓰지 말고 알려줘.
-- name·description·본문을 바꾸거나 새로 작성하지 마.
-- templates/skills/grill-me의 LICENSE와 SOURCE.md도 같은 스킬 폴더에 복사해줘.
-- 설치만 하고 인터뷰는 아직 시작하지 마.
-- 저장 경로와 name·description만 짧게 알려줘.
+아래 내용을 .claude/skills/grill-me/SKILL.md에 그대로 저장해줘. 기존 파일이 다르면 덮어쓰기 전에 물어봐 줘.
+templates/skills/grill-me의 LICENSE와 SOURCE.md도 복사해줘. 아직 인터뷰하지 마.
 
 SKILL.md 내용:
 ---

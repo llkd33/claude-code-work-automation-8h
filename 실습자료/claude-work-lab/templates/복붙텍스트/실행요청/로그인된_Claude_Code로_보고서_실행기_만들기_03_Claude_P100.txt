@@ -1,3 +1,2 @@
-- xlreport의 제공 도구로 sample 폴더의 Excel을 분석해줘.
-- 로그인된 Claude Code를 사용하고 새 계산 도구는 만들지 마.
-- 이번 보고서 경로와 실제 성공·실패를 알려줘. 같은 입력을 중복 분석하지 마.
+xlreport의 제공 도구로 sample 폴더의 Excel을 분석해줘.
+로그인된 Claude Code를 쓰고, 결과 파일이나 오류를 알려줘. 분석은 한 번만 해줘.

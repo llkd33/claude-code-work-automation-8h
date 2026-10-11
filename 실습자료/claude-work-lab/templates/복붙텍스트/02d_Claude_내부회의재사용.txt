@@ -1,3 +1,2 @@
-/meeting-minutes input/hanbit-sales/meetings/03_내부주간영업회의.txt를 같은 기준으로 정리해줘.
-- 결과는 output/meeting-minutes/내부회의.md.
-- 원문에 없는 결정·담당자·마감은 미정으로 남겨줘.
+/meeting-minutes input/hanbit-sales/meetings/03_내부주간영업회의.txt
+같은 기준으로 output/meeting-minutes/내부회의.md에 정리해줘.

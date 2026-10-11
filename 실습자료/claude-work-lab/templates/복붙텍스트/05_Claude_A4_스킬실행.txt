@@ -1,2 +1,2 @@
-/weekly-report workbooks/주간비용_수정후.xlsx → output/skill-run.
-- 내가 Skill에 적은 기본 금액을 사용해줘.
+/weekly-report workbooks/주간비용_수정후.xlsx → output/skill-run
+내가 스킬에 적은 기준 금액으로 만들어줘.

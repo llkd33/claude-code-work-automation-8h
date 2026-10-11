@@ -1,5 +1,2 @@
-- 입력: workbooks/주간비용_수정후.xlsx
-- 결과 폴더: output/local-final
-- @integrations/local-report/실행안내.md의 제공된 주간 비용 보고 도구를 실행해줘. 계산 코드는 새로 만들거나 바꾸지 마.
-- 원본과 다른 결과는 보존하고, 입력 오류가 나면 기존 정상 보고서를 유지해줘.
-- 실제 건수·총액·검사 결과와 보고서 여는 방법만 짧게 알려줘.
+@integrations/local-report/실행안내.md의 도구로 workbooks/주간비용_수정후.xlsx 보고서를 만들어줘.
+output/local-final에 저장하고 건수·총액과 열 파일을 알려줘. 제공 계산 코드는 그대로 써줘.

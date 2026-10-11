@@ -1,2 +1,2 @@
-/weekly-report workbooks/주간비용_다음주.xlsx → output/next-week.
-- 내 기본 기준을 유지하고 같은 도구로 검사해줘.
+/weekly-report workbooks/주간비용_다음주.xlsx → output/next-week
+지난번과 같은 기준으로 만들어줘.

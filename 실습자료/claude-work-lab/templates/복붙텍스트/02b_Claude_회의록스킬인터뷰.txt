@@ -1,8 +1,4 @@
-- 회의 메모를 보고서로 정리하는 meeting-minutes 스킬을 만들고 싶어. @input/hanbit-sales/README.md와 @templates/skills/meeting-minutes/스킬_빈칸양식.md를 참고해줘.
-- README에 안내된 참고자료 목록을 보고, 보고서에 들어갈 내용·읽을 사람·형식·꼭 지킬 기준 중 빠진 것만 최대 3개, 한 번에 하나씩 나를 인터뷰해줘.
-- 내 답을 요약해 확인받은 뒤 .claude/skills/meeting-minutes/SKILL.md와 notes/회의록스킬_내기준.md에 저장해줘.
-- 기존 파일은 덮어쓰지 마.
-- name·description·본문에 내 기준을 반영해줘.
-- disable-model-invocation은 true로 두고, 지정한 파일 경로 등 호출 뒤의 요청을 입력으로 사용하도록 적어줘.
-- 없는 사실은 미정으로 남겨.
-- 인터뷰 중에는 보고서를 만들지 마.
+회의 메모를 정리하는 meeting-minutes 스킬을 만들고 싶어.
+- @input/hanbit-sales/README.md와 @templates/skills/meeting-minutes/스킬_빈칸양식.md를 참고해줘.
+- 누구에게 보고할지, 무엇을 넣을지, 어떤 형식이 좋을지 하나씩 물어봐 줘. 질문은 3개까지만 해줘.
+- 내 확인을 받은 뒤 .claude/skills/meeting-minutes/SKILL.md와 notes/회의록스킬_내기준.md에 저장해줘. 기존 파일은 남겨줘.

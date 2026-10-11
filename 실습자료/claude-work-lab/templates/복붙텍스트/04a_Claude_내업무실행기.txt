@@ -1,5 +1,5 @@
-- templates/내업무_실행기명세.txt와 templates/내업무_실행기시작코드.txt를 읽고 scripts/my-workflow.cjs를 만들어줘.
-- 입력은 workbooks/내업무비용.xlsx, 출력은 output/my-work, 기준 금액은 [정수 금액]원.
-- 기존 계산 코드는 수정하지 말고 제공 시작 코드의 설정만 반영해.
-- 먼저 입력의 비용내역 탭과 필수 열을 검사하고, 맞지 않으면 중단해.
-- 파일은 실제 실행한 뒤 원본 보존·건수·총액·검사 상태를 4줄 이내로 알려줘.
+제공된 templates/내업무_실행기명세.txt와 templates/내업무_실행기시작코드.txt로 scripts/my-workflow.cjs를 만들어줘.
+- 입력: workbooks/내업무비용.xlsx
+- 결과: output/my-work
+- 기준 금액: [정수 금액]원
+계산 코드는 그대로 쓰고, 실행해서 건수와 총액을 알려줘.
