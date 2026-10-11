@@ -18,6 +18,8 @@
 | 수신자별 결과 5종 | input/weekly-report/README.md |
 | Excel 웹 도구 | templates/excel-web-app/01_웹보고서_스펙.md |
 | 고객관리 | templates/customer-app/01_고객관리_스펙.md |
+| 회의정리·고객후속관리 팀 | templates/team-options/사용안내.md |
+| 비용 보고 팀 | templates/team-starter/README.md |
 
 ## 실습 순서
 1. 체크리스트를 만듭니다.
