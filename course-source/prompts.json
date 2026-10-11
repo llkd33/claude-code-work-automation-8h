@@ -35,6 +35,16 @@
     "text": "cd \"[claude-work-lab 폴더의 전체 경로]\""
   },
   {
+    "id": "P136",
+    "where": "셸 · PowerShell 또는 macOS 터미널 · 로그인",
+    "text": "claude auth login"
+  },
+  {
+    "id": "P137",
+    "where": "셸 · 실습 폴더에서 · Claude Code 켜기",
+    "text": "claude"
+  },
+  {
     "id": "P119",
     "where": "강사 시연 · Claude Code 안 · 작은 카운터",
     "text": "누르면 숫자가 1씩 올라가는 웹페이지를 간단하게 만들어줘."
