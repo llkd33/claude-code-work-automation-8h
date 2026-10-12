@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 320" role="img" aria-label="줄 것, 만들 것, 확인할 것 세 칸" font-family="Pretendard,'Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+<rect width="1080" height="320" fill="#fffaf3"/>
+<text x="540" y="52" text-anchor="middle" font-size="30" font-weight="800" fill="#273943">프롬프트는 세 칸이면 충분해요</text>
+<g><rect x="40" y="86" width="300" height="150" rx="18" fill="#fff" stroke="#e8772e" stroke-width="3"/>
+<rect x="40" y="86" width="300" height="44" rx="18" fill="#e8772e"/><rect x="40" y="112" width="300" height="18" fill="#e8772e"/>
+<text x="190.0" y="116" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">무엇을 줄까</text>
+<text x="190.0" y="176" text-anchor="middle" font-size="19" fill="#273943">엑셀 파일, 메모</text>
+<text x="190.0" y="206" text-anchor="middle" font-size="19" fill="#273943">@로 고르기</text></g><g><rect x="400" y="86" width="300" height="150" rx="18" fill="#fff" stroke="#3d7aa8" stroke-width="3"/>
+<rect x="400" y="86" width="300" height="44" rx="18" fill="#3d7aa8"/><rect x="400" y="112" width="300" height="18" fill="#3d7aa8"/>
+<text x="550.0" y="116" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">무엇을 만들까</text>
+<text x="550.0" y="176" text-anchor="middle" font-size="19" fill="#273943">보고서, 체크리스트</text>
+<text x="550.0" y="206" text-anchor="middle" font-size="19" fill="#273943">결과 한 가지</text></g><g><rect x="760" y="86" width="300" height="150" rx="18" fill="#fff" stroke="#6a9a6f" stroke-width="3"/>
+<rect x="760" y="86" width="300" height="44" rx="18" fill="#6a9a6f"/><rect x="760" y="112" width="300" height="18" fill="#6a9a6f"/>
+<text x="910.0" y="116" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">어떻게 확인할까</text>
+<text x="910.0" y="176" text-anchor="middle" font-size="19" fill="#273943">건수·총액 비교</text>
+<text x="910.0" y="206" text-anchor="middle" font-size="19" fill="#273943">직접 눌러 보기</text></g><text x="370.0" y="176" text-anchor="middle" font-size="40" font-weight="700" fill="#e8772e">+</text><text x="730.0" y="176" text-anchor="middle" font-size="40" font-weight="700" fill="#e8772e">+</text>
+<text x="540" y="284" text-anchor="middle" font-size="19" fill="#5b6b73">세 칸이 채워지면 한두 줄이어도 충분합니다.</text></svg>
