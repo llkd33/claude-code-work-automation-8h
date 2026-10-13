@@ -8,3 +8,4 @@
 - `git diff --check`, `node tests/knowledge-offline.cjs`, `node tests/knowledge-browser.cjs` 통과.
 - Chromium에서 핸드북의 P69/P82/P125 `@` 참조가 렌더링되는 것과 1440/768/375px 가로 넘침 없음, JavaScript 오류 없음 확인.
 - 복붙 템플릿·실습 자료·수강생 ZIP·강사용 ZIP 네 파일의 CRC 검사 통과. Excel 파일과 계산 코드는 변경하지 않음.
+- GitHub Pages run `38479431400` 성공. 공개 핸드북과 두 ZIP 파일 HTTP 200, 공개 페이지에 다음 주 Excel·파일 안내·고객 CSV `@` 경로가 반영됨.
