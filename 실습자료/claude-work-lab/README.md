@@ -1,5 +1,11 @@
 # Claude Code 실습 자료
 
+## Claude Code가 먼저 읽을 파일
+
+- 이 폴더에서 Claude Code를 열면 `CLAUDE.md`가 기본 규칙으로 적용됩니다.
+- 처음 한 번은 [`AI_참고_색인.md`](AI_참고_색인.md)를 읽혀 자료 위치와 선택 기준을 알려 줍니다.
+- 이후에는 색인에서 현재 실습과 연결된 안내 파일만 골라 읽힙니다. CSV·Excel 전체를 늘 통째로 읽히지 않습니다.
+
 ## 프롬프트를 받으면
 - 파일 목록을 보고 프롬프트와 관련된 안내·예시만 읽습니다. 폴더 전체를 매번 읽지 않습니다.
 - 짧게 답하고, 필요한 기준만 사용자에게 묻습니다. 이미 받은 답은 다시 묻지 않습니다.
@@ -12,6 +18,8 @@
 
 - 입력 데이터 전체 지도: [input/자료안내.md](input/자료안내.md). 각 주제별 세부 README는 연결된 자료만 읽습니다.
 - 비용 Excel 시트·열·정답 숫자: [workbooks/파일안내.md](workbooks/파일안내.md).
+- 대용량 Excel 연습: [workbooks/주간비용_확장연습_120건.xlsx](workbooks/주간비용_확장연습_120건.xlsx)와 [파일안내](workbooks/파일안내.md). 기본 40·41건 정답 실습과 구분합니다.
+- Windows 설치가 막힌 경우만: [Windows 설치 도우미 수업안내](installers/windows-claude-code/수업안내.md). 설치 파일이 Claude Code를 내려받고 사용자 PATH를 변경할 수 있으므로 안내를 먼저 읽습니다.
 | 프롬프트 | 먼저 볼 안내 |
 |---|---|
 | 체크리스트 | templates/checklist-spec.md |
