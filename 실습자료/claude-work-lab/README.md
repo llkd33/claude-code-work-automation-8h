@@ -9,6 +9,9 @@
 - 실제로 확인하지 못한 것은 알려줍니다.
 
 ## 필요한 자료 찾기
+
+- 입력 데이터 전체 지도: [input/자료안내.md](input/자료안내.md). 각 주제별 세부 README는 연결된 자료만 읽습니다.
+- 비용 Excel 시트·열·정답 숫자: [workbooks/파일안내.md](workbooks/파일안내.md).
 | 프롬프트 | 먼저 볼 안내 |
 |---|---|
 | 체크리스트 | templates/checklist-spec.md |
@@ -16,8 +19,8 @@
 | 비용 계산 | integrations/local-report/실행안내.md |
 | 비용 보고서·메일 초안 | templates/수업_파일안내.md의 현재 비용 보고서 결과 위치; 검사한 같은 숫자를 사용 |
 | 수신자별 결과 5종 | input/weekly-report/README.md |
-| Excel 웹 도구 | templates/excel-web-app/01_웹보고서_스펙.md |
-| 고객관리 | templates/customer-app/01_고객관리_스펙.md |
+| Excel 웹 도구 | workbooks/파일안내.md, templates/excel-web-app/01_웹보고서_스펙.md |
+| 고객관리 | input/customer-app/README.md, templates/customer-app/01_고객관리_스펙.md |
 | 회의정리·고객후속관리 팀 | templates/team-options/사용안내.md |
 | 비용 보고 팀 | templates/team-starter/README.md |
 

@@ -1,1 +1,2 @@
-/team-dashboard
+이 보고서를 자료 확인, 화면 제작, 검수 세 명에게 나눠 맡기고 싶어.
+@templates/team-starter/README.md의 역할 기준으로 팀을 설정하고 각자 하는 일을 알려줘. 아직 실행하지 마.

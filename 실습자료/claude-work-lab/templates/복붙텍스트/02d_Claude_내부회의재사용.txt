@@ -1,1 +1,1 @@
-/meeting-minutes 내부 주간 영업회의도 같은 스킬로 정리해줘.
+/meeting-minutes @input/hanbit-sales/meetings/03_내부주간영업회의.txt도 같은 스킬로 정리해줘.

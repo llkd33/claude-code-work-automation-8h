@@ -1,1 +1,1 @@
-/meeting-minutes 외부 유통사 미팅 메모를 정리해줘.
+/meeting-minutes @input/hanbit-sales/meetings/01_외부유통사미팅.txt를 정리해줘.
