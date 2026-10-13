@@ -18,3 +18,11 @@
 - 프롬프트 P65의 색인 경로와 `CLAUDE.md` 우선 참고 지시를 HTML·교안·TXT·JSON에서 대조. P141 로컬 Excel 드롭 앱 프롬프트는 자료/교안/검색 인덱스에 반영.
 - 실습자료.zip 243개, 복붙템플릿.zip 75개, 수강생 ZIP 556개, 강사용 ZIP 618개: CRC 및 AI 색인·CLAUDE.md·120건 workbook·Windows 설치 자료 포함 확인. 임시 `_workspace`와 `.inspect.ndjson` 미포함 확인.
 - `git diff --check` 통과. 로컬 드래그 앤 드롭 앱은 강의용 제작 실습으로 추가했으며, 앱 자체를 구현·실행한 것은 아님.
+
+
+## 2026-10-14 · GitHub Pages 재배포 확인
+
+- 커밋 `e2dd2c7` push 후 Pages run `38485267309` 성공.
+- 공개 핸드북 200, AI 참고 색인·Effort·Excel 드롭 문구 표시 확인. 실습자료.zip, 복붙템플릿.zip, 수강생 ZIP 모두 200.
+- Windows 설치 스크립트 3개는 Downloads 원본과 해시 일치.
+- 공개 자료 링크를 `livelikekingdavid@gmail.com`으로 발송.
