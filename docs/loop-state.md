@@ -105,3 +105,4 @@
 - 유의: 직전 Google 시트·이메일은 실제 생성/전송 확인이 있으나, Codex 측 Google Drive MCP 연결을 구성한 것은 아니다. 수업은 사용자의 연결 상태를 `/mcp`에서 확인하는 절차로 설명한다.
 - 종료 조건: 각 산출물 동기화, 브라우저·오프라인 검색 테스트 통과, 통합 ZIP 갱신, 게시 후 원격 화면 검증.
 - 검증 완료: 재무 앱 P151까지 프롬프트·핸드북·강의안·가이드·예시 문서를 동기화했다. `node tests/knowledge-browser.cjs`, `node tests/knowledge-offline.cjs`, 검색 인덱스 빌드, JSON 파싱, `git diff --check` 통과. 학생/실습/강사 ZIP 4종 CRC와 P149–P151 파일 포함 확인. 다음 단계: 원본 작업 폴더 동기화 후 GitHub Pages 게시와 HTTP 확인.
+- 배포 확인: commit `84fff6b`를 `main`에 반영했다. GitHub Pages run `38530254082` 성공. 공개 핸드북과 `student-materials.zip` HTTP 200, 핸드북에서 P151·루틴 제목 확인. 이 반복 종료.
