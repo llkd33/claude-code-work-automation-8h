@@ -26,3 +26,10 @@
 - 공개 핸드북 200, AI 참고 색인·Effort·Excel 드롭 문구 표시 확인. 실습자료.zip, 복붙템플릿.zip, 수강생 ZIP 모두 200.
 - Windows 설치 스크립트 3개는 Downloads 원본과 해시 일치.
 - 공개 자료 링크를 `livelikekingdavid@gmail.com`으로 발송.
+
+## 2026-10-14 · 수강생 통합 ZIP 확인
+
+- `수강생_통합자료.zip`: 378개 항목, 중복 항목 없음, CRC 통과. HTML 핸드북, AI 참고 색인, CLAUDE.md, 120건 workbook, Windows 설치 파일, Excel 드롭 실습 프롬프트와 PRD/IA/Journey·슬라이드 예시 포함.
+- 구 ZIP 2개(실습/복붙)와 기존 수강생 ZIP을 새 패키지 내부에 넣지 않고, 단일 `실습자료/claude-work-lab` 경로에 파일을 정리했다. `node_modules`, 실행 결과 파일 없음.
+- `node tests/knowledge-offline.cjs`, `node tests/knowledge-browser.cjs`, `git diff --check` 통과.
+- 로컬 다운로드 안내는 단일 ZIP과 실습 폴더 경로만 안내하도록 업데이트했다. GitHub Pages 배포 후 실제 링크 상태를 추가 확인한다.

@@ -5,8 +5,7 @@
 - [웹 핸드북](https://llkd33.github.io/claude-code-work-automation-8h/실습핸드북.html)
 - [수정 전후](https://llkd33.github.io/claude-code-work-automation-8h/수정전후.html)
 - [전체 텍스트](교안.md) · [사전 준비](사전준비.md)
-- [실습자료](실습자료.zip) · [복붙 프롬프트](복붙템플릿.zip)
-- [수강생 전체 자료](배포본/ClaudeCode_8H_수강생.zip) · [강사용 자료](배포본/ClaudeCode_8H_강사용.zip)
+- [수강생 자료 한 번에 받기](수강생_통합자료.zip) · [강사용 자료(운영진용)](배포본/ClaudeCode_8H_강사용.zip)
 
 수업 흐름: 체크리스트 → 회의록 스킬 → 비용 보고서 → 다음 주 보고서 → CLAUDE.md·보고서 스킬 → 서브에이전트 3명 팀 → Excel 웹 도구 → 파일 변경 자동 갱신 → Gmail 초안.
 서브에이전트 팀은 비용 보고·회의 정리·고객 후속관리 중 하나를 고르는 필수 실습입니다. 추가 앱 예시는 선택입니다.
