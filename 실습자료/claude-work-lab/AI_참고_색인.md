@@ -9,6 +9,7 @@
 | 강의 개념·실습 순서 | `단계별_실습가이드.md`에서 해당 번호 | 필요한 경우에만 아래 주제별 자료 |
 | 첫 실습·AI 흐름 | `templates/00_첫실습전_개념과최근흐름.md` | `templates/터미널_한장.md` |
 | 체크리스트 만들기 | `templates/checklist-spec.md` | 완성 후 파일을 열어 항목 추가·완료·새로고침 확인 |
+| 체크리스트 디자인 바꾸기 | 핸드북 07 심화 실습, templates/복붙텍스트/02b_Claude_A2_디자인참고.txt | Google 이미지·Pinterest에서 화면 참고를 고르고 캡처해 Claude Code에 첨부, 디자인을 바꾼 뒤 기존 기능 확인 |
 | 고객 도구·기능 인터뷰 | `input/customer-app/README.md` | `input/customer-app/가상고객_5명.csv`, `templates/customer-app/01_고객관리_스펙.md` |
 | 고객 도구 기획 그림 | `templates/planning/02_고객관리_PRD예시.md` | `03_고객관리_IA예시.md`, `04_고객관리_UserJourney예시.md` |
 | 회의록 스킬 만들기 | `input/hanbit-sales/README.md` | `templates/skills/meeting-minutes/` 안의 안내와 가상 회의 메모 |

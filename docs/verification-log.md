@@ -36,3 +36,10 @@
 
 
 - 배포 확인: Pages run `38488679419` 성공. 공개 핸드북에 단일 다운로드 링크 3곳 표시, 통합 ZIP HTTP 200 및 원격 다운로드 SHA-256 일치. 기존 실습·프롬프트·수강생 ZIP URL은 모두 404.
+
+## 2026-10-14 · 체크리스트 디자인 참고 실습
+
+- P142/P143의 핸드북 입력란, 복사 본문, course-content/prompts JSON, 다운로드 TXT가 일치함을 확인.
+- 첫 체크리스트 단원에 고유 ID 1개, 이미지 캡처 안내(macOS/Windows), 검색 예시, 시각 요소 3가지, 기능 보존·재확인 절차가 있음.
+- 검색 인덱스 39 nodes / 52 edges / 161 entries로 재생성. knowledge-offline.cjs, knowledge-browser.cjs, git diff --check 통과.
+- 통합 수강생 ZIP 382개 항목, 강사용 ZIP 619개 항목, CRC 정상. 새 이미지 자산은 추가하지 않았고, 참가자가 고른 이미지를 완성 앱에 복사하지 않도록 안내함.
