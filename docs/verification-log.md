@@ -59,3 +59,9 @@
 - P146이 핸드북·교안·단계별 가이드·`prompts.json`·`course-content.json`·다운로드 TXT와 일치함을 확인. 단원 로컬 링크 및 HTML ID 중복 없음.
 - 지식 인덱스 39 nodes / 52 edges / 167 entries. 오프라인·브라우저 검색 테스트 통과(375/768px 포함).
 - 수강생 ZIP 386개 항목 SHA-256 `3aa416c1884a5bc9dce45d1d2b88bb4e4f4d0e91f57a9c3d88afb074aba78c12`, 강사용 ZIP 624개 항목 SHA-256 `5f2f8436ac76373d5591709615fd0c202276fff94818a3492599594a98a63164`; 고유 항목 및 CRC 정상.
+
+## 2026-10-14 · 초반 Markdown·AI 개념 및 개인 스킬 실습
+
+- Pages run `38512384196` 성공 (commit `54ed5b4`).
+- 공개 핸드북 HTTP 200, 246,428 bytes. Markdown 설명, 고양이 예시, P146 개인 업무 스킬 실습 포함을 확인.
+- 공개 `student-materials.zip` HTTP 200, 23,725,378 bytes, 386개 항목 CRC 정상. 원격 SHA-256 `3aa416c1884a5bc9dce45d1d2b88bb4e4f4d0e91f57a9c3d88afb074aba78c12` 로컬 파일과 일치.
