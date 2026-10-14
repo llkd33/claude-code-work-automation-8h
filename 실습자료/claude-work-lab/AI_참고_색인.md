@@ -12,7 +12,7 @@
 | 체크리스트 디자인 바꾸기 | 핸드북 07 심화 실습, templates/복붙텍스트/02b_Claude_A2_디자인참고.txt | Google 이미지·Pinterest에서 화면 참고를 고르고 캡처해 Claude Code에 첨부, 디자인을 바꾼 뒤 기존 기능 확인 |
 | 고객 도구·기능 인터뷰 | `input/customer-app/README.md` | `input/customer-app/가상고객_5명.csv`, `templates/customer-app/01_고객관리_스펙.md` |
 | 고객 도구 기획 그림 | `templates/planning/02_고객관리_PRD예시.md` | `03_고객관리_IA예시.md`, `04_고객관리_UserJourney예시.md` |
-| 회의록 스킬 만들기·가상 메모 연습 | `input/hanbit-sales/README.md` | `templates/skills/meeting-minutes/` 안내, 기존 회의 메모, 직접 만든 가상 원본 메모 |
+| 회의록·내 업무 스킬 만들기 | `input/hanbit-sales/README.md` | `templates/skills/meeting-minutes/` 안내, 가상 회의 메모, 반복 업무 스킬 프롬프트 P146 |
 | 주간 비용 첫 보고서 | `integrations/local-report/실행안내.md` | `workbooks/파일안내.md`, `workbooks/주간비용_실습.xlsx` 사본 |
 | Excel에서 금액 수정 | `workbooks/파일안내.md`의 수정 실습 | Excel에서 사본의 E003 단가 수정 후 보고서 재실행 |
 | 표가 크거나 필터 연습 | `workbooks/파일안내.md`의 120건 연습 | `workbooks/주간비용_확장연습_120건.xlsx` 사본 |

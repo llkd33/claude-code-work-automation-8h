@@ -52,3 +52,10 @@
 - 지식 검색 인덱스 재생성: 39 nodes / 52 edges / 165 entries. 오프라인·브라우저 지식 테스트 통과.
 - 수강생 ZIP 385개, 강사용 ZIP 622개: 고유 항목·필수 프롬프트/샘플/핸드북 존재·CRC 검사 통과.
 - 배포: commit `4d0e934`의 Pages run `38511374381` 성공. 공개 핸드북·통합 ZIP 모두 HTTP 200, 핸드북에 P144/P145 표시, 공개 ZIP 385개 항목 CRC 정상·SHA-256 `cc530bca8f2206e2b3ead62876a1a1c664d7e6a440bbc282149630b85f7d542a` (로컬 ZIP과 일치).
+
+## 2026-10-14 · AI·Markdown 기초 개념과 개인 스킬 실습
+
+- 초반 용어 단원에 AI → 머신러닝 → 딥러닝 → LLM 포함 관계와 고양이 사진 분류 예시를 추가. Markdown 원문/미리보기, `CLAUDE.md`·`SKILL.md` 사용처를 확인.
+- P146이 핸드북·교안·단계별 가이드·`prompts.json`·`course-content.json`·다운로드 TXT와 일치함을 확인. 단원 로컬 링크 및 HTML ID 중복 없음.
+- 지식 인덱스 39 nodes / 52 edges / 167 entries. 오프라인·브라우저 검색 테스트 통과(375/768px 포함).
+- 수강생 ZIP 386개 항목 SHA-256 `3aa416c1884a5bc9dce45d1d2b88bb4e4f4d0e91f57a9c3d88afb074aba78c12`, 강사용 ZIP 624개 항목 SHA-256 `5f2f8436ac76373d5591709615fd0c202276fff94818a3492599594a98a63164`; 고유 항목 및 CRC 정상.
