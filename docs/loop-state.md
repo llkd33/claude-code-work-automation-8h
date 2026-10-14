@@ -86,3 +86,22 @@
 - 품질 게이트: 조사→기획→문안/후속 안내 동시 작업→검수 순서를 제시하고, 역할명 확인/대체 안내·검수에서 멈춤·외부 발송 금지·단일 에이전트 대비 비용 설명이 포함된다. HTML/JSON/TXT 동기화, 검색 브라우저/오프라인, ZIP CRC, Pages 공개 확인.
 - 종료 조건: 실습 파일 반영, 패키지 갱신, Pages 배포와 P148 공개 확인.
 - 완료: P147 인터뷰 문장을 마케팅 팀 리드의 상황과 적정 인원 수 질문으로 구체화했다. P148 웨비나 캠페인에서 연구→기획→문안·후속 안내 병렬→검수 순서를 실습하고, 단일 에이전트 대비 장점·추가 조정 비용을 설명한다. HTML·교안·두 JSON·P147/P148 TXT 동기화, 검색 브라우저/오프라인 검사, ZIP CRC 통과. commit `c9e55de`, Pages run `38524125441` 성공, 공개 핸드북·수강생 ZIP HTTP 200 확인. 이 반복 종료.
+
+## 현재 반복 · Claude Code Gmail·Sheets 커넥터
+
+- 목적: 수강생이 `/mcp`의 미사용 커넥터 펼치기에서 Gmail·Google Sheets를 연결하고, 연결 여부와 미발송 초안을 직접 확인한다.
+- 편집 범위: Gmail/커넥터 단원, 터미널풍 SVG, 교안, 단계별 실습 가이드, P104/P105 JSON/TXT, 검색 색인, 학생·강사 ZIP.
+- 품질 게이트: `/mcp` 연결 흐름과 대체 설정 경로 설명, 커넥터 가용성 및 Google Sheets 베타 범위 안내, 프롬프트 다섯 군데 일치, 로컬 링크/검색/HTML 테스트, ZIP CRC, Pages 반영 확인.
+- 근거: Anthropic Claude Code MCP 및 Google Workspace 커넥터 공식 안내를 2026-10-14 확인했다.
+- 범위 제한: 실제 Google 계정 OAuth는 자료 편집자가 대신 수행하지 않는다. 수강생 계정별 연결과 조직 정책은 수업 중 본인이 확인한다.
+
+
+## 현재 반복 · Google 연결·재무보고 루틴 및 분석 앱 기획 실습
+
+- 목적: Google Drive·Gmail 커넥터 확인, Google Sheets 가상 재무상태표 생성·검증·승인 메일, Claude Code 일일 루틴, 재무 분석 Electron 앱의 인터뷰→IA→Journey→PRD→MVP 흐름을 초보자 교안에 넣는다.
+- 편집 범위: `#mcp` HTML/JSON, Module 08 핸드북/교안/가이드, P104·P149·P150·P151 TXT·JSON, 상세 재무 앱 예시, 검색 색인, 4개 ZIP, GitHub Pages.
+- 품질 게이트: 합계 검산 일치, 프롬프트·자료 동기화, 검색 결과와 링크, 375px·768px 레이아웃, JSON·HTML 구문, ZIP CRC, Pages 배포 확인.
+- 외부 사실: Claude Code routine의 `/schedule`·클라우드 실행 및 자격 조건은 Anthropic 공식 안내와 대조한다.
+- 유의: 직전 Google 시트·이메일은 실제 생성/전송 확인이 있으나, Codex 측 Google Drive MCP 연결을 구성한 것은 아니다. 수업은 사용자의 연결 상태를 `/mcp`에서 확인하는 절차로 설명한다.
+- 종료 조건: 각 산출물 동기화, 브라우저·오프라인 검색 테스트 통과, 통합 ZIP 갱신, 게시 후 원격 화면 검증.
+- 검증 완료: 재무 앱 P151까지 프롬프트·핸드북·강의안·가이드·예시 문서를 동기화했다. `node tests/knowledge-browser.cjs`, `node tests/knowledge-offline.cjs`, 검색 인덱스 빌드, JSON 파싱, `git diff --check` 통과. 학생/실습/강사 ZIP 4종 CRC와 P149–P151 파일 포함 확인. 다음 단계: 원본 작업 폴더 동기화 후 GitHub Pages 게시와 HTTP 확인.
