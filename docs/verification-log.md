@@ -33,3 +33,6 @@
 - 구 ZIP 2개(실습/복붙)와 기존 수강생 ZIP을 새 패키지 내부에 넣지 않고, 단일 `실습자료/claude-work-lab` 경로에 파일을 정리했다. `node_modules`, 실행 결과 파일 없음.
 - `node tests/knowledge-offline.cjs`, `node tests/knowledge-browser.cjs`, `git diff --check` 통과.
 - 로컬 다운로드 안내는 단일 ZIP과 실습 폴더 경로만 안내하도록 업데이트했다. GitHub Pages 배포 후 실제 링크 상태를 추가 확인한다.
+
+
+- 배포 확인: Pages run `38488679419` 성공. 공개 핸드북에 단일 다운로드 링크 3곳 표시, 통합 ZIP HTTP 200 및 원격 다운로드 SHA-256 일치. 기존 실습·프롬프트·수강생 ZIP URL은 모두 404.
