@@ -44,3 +44,10 @@
 - 검색 인덱스 39 nodes / 52 edges / 161 entries로 재생성. knowledge-offline.cjs, knowledge-browser.cjs, git diff --check 통과.
 - 통합 수강생 ZIP 382개 항목, 강사용 ZIP 619개 항목, CRC 정상. 새 이미지 자산은 추가하지 않았고, 참가자가 고른 이미지를 완성 앱에 복사하지 않도록 안내함.
 - 배포 확인: Pages run 38503391479 성공. 공개 핸드북에 참고 디자인 실습/P142/P143 표시, 수강생 ZIP 382개 항목 CRC 및 SHA-256 일치. 과거 실습자료.zip·수강생_통합자료.zip 주소도 application/x-zip-compressed와 PK 서명을 반환.
+
+## 2026-10-14 · 가상 회의록 스킬 실습
+
+- P144/P145가 핸드북 화면, `course-content.json`, `prompts.json`, 각각의 복사 TXT와 동일한지 확인.
+- 준비된 신제품 회의 원본의 제안·결정·담당자/기한 미정 예시 및 수업 자료 링크를 확인.
+- 지식 검색 인덱스 재생성: 39 nodes / 52 edges / 165 entries. 오프라인·브라우저 지식 테스트 통과.
+- 수강생 ZIP 385개, 강사용 ZIP 622개: 고유 항목·필수 프롬프트/샘플/핸드북 존재·CRC 검사 통과.
