@@ -43,3 +43,4 @@
 - 첫 체크리스트 단원에 고유 ID 1개, 이미지 캡처 안내(macOS/Windows), 검색 예시, 시각 요소 3가지, 기능 보존·재확인 절차가 있음.
 - 검색 인덱스 39 nodes / 52 edges / 161 entries로 재생성. knowledge-offline.cjs, knowledge-browser.cjs, git diff --check 통과.
 - 통합 수강생 ZIP 382개 항목, 강사용 ZIP 619개 항목, CRC 정상. 새 이미지 자산은 추가하지 않았고, 참가자가 고른 이미지를 완성 앱에 복사하지 않도록 안내함.
+- 배포 확인: Pages run 38503391479 성공. 공개 핸드북에 참고 디자인 실습/P142/P143 표시, 수강생 ZIP 382개 항목 CRC 및 SHA-256 일치. 과거 실습자료.zip·수강생_통합자료.zip 주소도 application/x-zip-compressed와 PK 서명을 반환.
