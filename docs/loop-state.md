@@ -130,3 +130,4 @@
 - 편집 범위: 고객 서비스 설계 단원, 직무별 실습 주제 단원, 핸드북·교안·실습 가이드·course JSON, 검색 인덱스와 통합 ZIP.
 - 품질 게이트: 용어와 예시의 일관성, 문제 인터뷰→IA→Journey→PRD 순서, 원문 출처 링크, 브라우저·모바일·오프라인 검사, ZIP CRC와 Pages 반영.
 - 완료: 가치 포착/창출과 CODER 설명, 고객 기획의 IA·Journey·PRD 정의 및 순서를 핸드북·교안·가이드·course JSON에 반영했다. 인덱스 빌드(39노드·52연결·182 검색항목), JSON 파싱, 브라우저/오프라인 검사, 375/768px, 기획 탭 순서, 중복 ID, 4개 ZIP CRC, `git diff --check` 통과. Pages 배포 후 공개 문구 확인 예정.
+- 배포 확인: commit `ec9d6a5`의 Pages run `38753770171` 성공. 공개 핸드북 HTTP 200, 가치 포착·가치 창출·CODER·PRD/IA/Journey 설명 및 IA→Journey→PRD 버튼 순서 확인. 이 반복 종료.
